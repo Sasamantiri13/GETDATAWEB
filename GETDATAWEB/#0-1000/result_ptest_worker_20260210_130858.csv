@@ -1,0 +1,201 @@
+﻿Asset_ID,Name Sort Not sorted  Name,Version Sort Not sorted  Version,Software Manufacturer Sort Not sorted  Software Manufacturer,Type Sort Not sorted  Type,Installation Date Sort Not sorted  Installation Date,Installation Directory Sort Not sorted  Installation Directory,File Count Sort Not sorted  File Count
+13292,"""ApplyTrustOffline.PROGRAM""",10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SoftwareDistribution\Download\a7d4b681d591b3f31e9d99c9266fdd8b\Package_for_RollupFix~~amd64~~26100.2605.1.12\amd64_microsoft-windows-appx-deployment-server_31bf3856ad364e35_10.0.26100.2605_none_fcfb1d9466bf6f5a,1.0
+13292,"""nvspinfo.PROGRAM""",10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SoftwareDistribution\Download\a7d4b681d591b3f31e9d99c9266fdd8b\Package_for_RollupFix~~amd64~~26100.2605.1.12\amd64_microsoft-hyper-v-d..s-vmswitch-netsetup_31bf3856ad364e35_10.0.26100.2605_none_20139b330b63c4ed,1.0
+13292,.NET Framework,3.0,Microsoft Corporation Inc.,Application,,C:\Windows\Microsoft.NET\Framework64\v3.0\Windows Communication Foundation,2.0
+13292,.NET Runtime Optimization Service,2.0,Microsoft Corporation Inc.,Application,,C:\Windows\Microsoft.NET\Framework64\v2.0.50727,2.0
+13292,.NET Runtime Optimization Service,4.8,Microsoft Corporation Inc.,Application,,C:\Windows\Microsoft.NET\Framework64\v4.0.30319,2.0
+13292,64Bit MAPI Mail Agent,1.0,Foxit Software Inc.,Application,,C:\Program Files (x86)\Foxit Software\Foxit PDF Reader,1.0
+13292,7-Zip 24.09 (x64),24.09,Igor Pavlov,Add/Remove Programs,,C:\Program Files\7-Zip\,
+13292,7-Zip Console,24.09,Igor Pavlov,Application,,C:\Program Files\7-Zip,1.0
+13292,7-Zip File Manager,24.09,Igor Pavlov,Application,,C:\Program Files\7-Zip,1.0
+13292,7-Zip GUI,24.09,Igor Pavlov,Application,,C:\Program Files\7-Zip,1.0
+13292,Accessibility On-Screen Keyboard,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SoftwareDistribution\Download\a7d4b681d591b3f31e9d99c9266fdd8b\Package_for_RollupFix~~amd64~~26100.2605.1.12\amd64_microsoft-windows-osk_31bf3856ad364e35_10.0.26100.2454_none_46835ae509f15182,1.0
+13292,Accessibility shortcut keys,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SoftwareDistribution\Download\a7d4b681d591b3f31e9d99c9266fdd8b\Package_for_RollupFix~~amd64~~26100.2605.1.12\wow64_microsoft-windows-sethc_31bf3856ad364e35_10.0.26100.2454_none_08db70c4597eb04d,2.0
+13292,Accounts Control Host,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SystemApps\Microsoft.AccountsControl_cw5n1h2txyewy,2.0
+13292,Acquire IMDS response,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SoftwareDistribution\Download\a7d4b681d591b3f31e9d99c9266fdd8b\Package_for_RollupFix~~amd64~~26100.2605.1.12\amd64_microsoft-client-li..e-flexible-platform_31bf3856ad364e35_10.0.26100.2454_none_dd684df02e3d0382,1.0
+13292,Acquire License From Store,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SoftwareDistribution\Download\a7d4b681d591b3f31e9d99c9266fdd8b\Package_for_RollupFix~~amd64~~26100.2605.1.12\amd64_microsoft-client-li..pgrade-subscription_31bf3856ad364e35_10.0.26100.2454_none_ed3589b6d83e4ae9,1.0
+13292,AddSuggestedFoldersToLibraryDialog,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SystemApps\Microsoft.Windows.AddSuggestedFoldersToLibraryDialog_cw5n1h2txyewy,1.0
+13292,AgentService EXE,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SoftwareDistribution\Download\a7d4b681d591b3f31e9d99c9266fdd8b\Package_for_RollupFix~~amd64~~26100.2605.1.12\amd64_microsoft-windows-a..nagement-uevservice_31bf3856ad364e35_10.0.26100.2454_none_196ab1cbda3910b1,1.0
+13292,Antimalware Core Service,4.18,Microsoft Corporation Inc.,Application,,C:\Program Files\Windows Defender,1.0
+13292,AntiMalware Definition Update,1.421,Microsoft Corporation Inc.,Application,,C:\Windows\SystemTemp\A9E5973E-5740-463F-8EFA-ECC9A76DBED9MpCommU,1.0
+13292,Antimalware Service Executable,4.18,Microsoft Corporation Inc.,Application,,C:\Program Files\Windows Defender,1.0
+13292,API for MDM Enrollment,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SoftwareDistribution\Download\a7d4b681d591b3f31e9d99c9266fdd8b\Package_for_RollupFix~~amd64~~26100.2605.1.12\amd64_microsoft-windows-deviceenroller_31bf3856ad364e35_10.0.26100.2454_none_5d0bd923bd4db8b0,1.0
+13292,Application Frame Host,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SoftwareDistribution\Download\a7d4b681d591b3f31e9d99c9266fdd8b\Package_for_RollupFix~~amd64~~26100.2605.1.12\amd64_microsoft-windows-s..plicationframe-host_31bf3856ad364e35_10.0.26100.2454_none_7573ba89dcffcfac,1.0
+13292,Application Impact Telemetry Static Analyzer,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SoftwareDistribution\Download\a7d4b681d591b3f31e9d99c9266fdd8b\Package_for_RollupFix~~amd64~~26100.2605.1.12\amd64_microsoft-windows-a..perience-ait-static_31bf3856ad364e35_10.0.26100.2161_none_ccccd2e75e2e1701,1.0
+13292,ApplySettingsTemplateCatalog EXE,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SoftwareDistribution\Download\a7d4b681d591b3f31e9d99c9266fdd8b\Package_for_RollupFix~~amd64~~26100.2605.1.12\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.26100.2454_none_98722ce894fd4d3d,1.0
+13292,AppResolverUX,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SystemApps\Microsoft.Windows.AppResolverUX_cw5n1h2txyewy,2.0
+13292,AsyncTextService,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SystemApps\Microsoft.AsyncTextService_8wekyb3d8bbwe,1.0
+13292,Audit,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SoftwareDistribution\Download\a7d4b681d591b3f31e9d99c9266fdd8b\Package_for_RollupFix~~amd64~~26100.2605.1.12\amd64_microsoft-windows-audit-component_31bf3856ad364e35_10.0.26100.2161_none_42a07b2326c7a747,1.0
+13292,Audit Mode Desktop Switch Utility,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SoftwareDistribution\Download\a7d4b681d591b3f31e9d99c9266fdd8b\Package_for_RollupFix~~amd64~~26100.2605.1.12\amd64_microsoft-windows-audit-component_31bf3856ad364e35_10.0.26100.2161_none_42a07b2326c7a747,1.0
+13292,Bcdboot utility,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SoftwareDistribution\Download\a7d4b681d591b3f31e9d99c9266fdd8b\Package_for_RollupFix~~amd64~~26100.2605.1.12\amd64_microsoft-windows-bcdboot-cmdlinetool_31bf3856ad364e35_10.0.26100.2454_none_fd1c6c0dee27068f,1.0
+13292,Biometric Enrollment Host,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SystemApps\Microsoft.BioEnrollment_cw5n1h2txyewy,1.0
+13292,BitLocker Device Encryption Tool,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SoftwareDistribution\Download\a7d4b681d591b3f31e9d99c9266fdd8b\Package_for_RollupFix~~amd64~~26100.2605.1.12\amd64_microsoft-windows-s..up-deviceencryption_31bf3856ad364e35_10.0.26100.2454_none_76293caa53a30b49,1.0
+13292,BMC Client Management Agent,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+13292,BMC Client Management Certificate Generator,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+13292,BMC Client Management Chilli Interpreter,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+13292,BMC Client Management Direct Access Proxy Agent,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+13292,BMC Client Management Opswat Proxy Agent,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+13292,BMC Client Management Package Viewer,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+13292,BMC Client Management Patch Broker,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+13292,BMC Client Management Proxy Agent,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+13292,BMC Client Management Remote Control proxy,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+13292,BMC Client Management SCAP,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+13292,BMC Client Management SFX,24.1.01.240624,BMC Software Inc.,Application,,C:\Users\support.local01\Downloads,1.0
+13292,BMC Client Management Video Proxy Agent,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+13292,Boot Configuration Data Editor,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SoftwareDistribution\Download\a7d4b681d591b3f31e9d99c9266fdd8b\Package_for_RollupFix~~amd64~~26100.2605.1.12\amd64_microsoft-windows-b..iondata-cmdlinetool_31bf3856ad364e35_10.0.26100.2454_none_23f1843e552e404c,1.0
+13292,Boot File Servicing Utility,10.0,Microsoft Corporation Inc.,Application,,C:\Windows,2.0
+13292,boot immersive menus,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SoftwareDistribution\Download\a7d4b681d591b3f31e9d99c9266fdd8b\Package_for_RollupFix~~amd64~~26100.2605.1.12\amd64_microsoft-windows-bootux.deployment_31bf3856ad364e35_10.0.26100.2454_none_d9d7d4458043b887,1.0
+13292,Boot Sector Manipulation Tool,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SoftwareDistribution\Download\a7d4b681d591b3f31e9d99c9266fdd8b\Package_for_RollupFix~~amd64~~26100.2605.1.12\amd64_microsoft-windows-b..ment-bootsectortool_31bf3856ad364e35_10.0.26100.2454_none_a854ec0d458d2d7b,1.0
+13292,Bridge Unattend Utility,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SoftwareDistribution\Download\a7d4b681d591b3f31e9d99c9266fdd8b\Package_for_RollupFix~~amd64~~26100.2605.1.12\amd64_microsoft-windows-networkbridge_31bf3856ad364e35_10.0.26100.2454_none_a3b07853b6183928,1.0
+13292,Browser Protection Native Messaging Host,4.18,Microsoft Corporation Inc.,Application,,C:\Program Files\Windows Defender,1.0
+13292,BrowserCore,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\BrowserCore,1.0
+13763,.NET Runtime Optimization Service,4.8,Microsoft Corporation Inc.,Application,,C:\Windows\Microsoft.NET\Framework64\v4.0.30319,2.0
+13763,64Bit MAPI Mail Agent,1.0,Foxit Software Inc.,Application,,C:\Program Files (x86)\Foxit Software\Foxit PDF Reader,1.0
+13763,7-Zip 24.09 (x64),24.09,Igor Pavlov,Add/Remove Programs,,C:\Program Files\7-Zip\,
+13763,7-Zip Console,24.09,Igor Pavlov,Application,,C:\Program Files\7-Zip,1.0
+13763,7-Zip File Manager,24.09,Igor Pavlov,Application,,C:\Program Files\7-Zip,1.0
+13763,7-Zip GUI,24.09,Igor Pavlov,Application,,C:\Program Files\7-Zip,1.0
+13763,Accounts Control Host,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SystemApps\Microsoft.AccountsControl_cw5n1h2txyewy,1.0
+13763,AddSuggestedFoldersToLibraryDialog,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SystemApps\Microsoft.Windows.AddSuggestedFoldersToLibraryDialog_cw5n1h2txyewy,1.0
+13763,Antimalware Core Service,4.18,Microsoft Corporation Inc.,Application,,C:\Program Files\Windows Defender,1.0
+13763,AntiMalware Platform Update (amd64fre),4.18,Microsoft Corporation Inc.,Application,,C:\Windows\SystemTemp\2546269B-2D57-4D42-A433-D992BED80957MpCommU,1.0
+13763,Antimalware Service Executable,4.18,Microsoft Corporation Inc.,Application,,C:\Program Files\Windows Defender,1.0
+13763,AppResolverUX,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SystemApps\Microsoft.Windows.AppResolverUX_cw5n1h2txyewy,1.0
+13763,AsyncTextService,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SystemApps\Microsoft.AsyncTextService_8wekyb3d8bbwe,1.0
+13763,Biometric Enrollment Host,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SystemApps\Microsoft.BioEnrollment_cw5n1h2txyewy,1.0
+13763,BMC Client Management Agent,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+13763,BMC Client Management Certificate Generator,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+13763,BMC Client Management Chilli Interpreter,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+13763,BMC Client Management Direct Access Proxy Agent,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+13763,BMC Client Management Opswat Proxy Agent,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+13763,BMC Client Management Package Viewer,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+13763,BMC Client Management Patch Broker,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+13763,BMC Client Management Proxy Agent,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+13763,BMC Client Management Remote Control proxy,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+13763,BMC Client Management SCAP,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+13763,BMC Client Management SFX,24.1.01.240624,BMC Software Inc.,Application,,C:\Users\support.local01\Downloads,1.0
+13763,BMC Client Management Video Proxy Agent,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+13763,Boot File Servicing Utility,10.0,Microsoft Corporation Inc.,Application,,C:\Windows,1.0
+13763,Browser Protection Native Messaging Host,4.18,Microsoft Corporation Inc.,Application,,C:\Program Files\Windows Defender,1.0
+13763,BrowserCore,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\BrowserCore,1.0
+13763,CameraBarcodeScannerPreview,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SystemApps\Windows.CBSPreview_cw5n1h2txyewy,1.0
+13763,CL5,9.6,Ivanti,Application,,C:\Program Files\BMC Software\Client Management\Client\data\PatchManagementPremium\workspace,6.0
+13763,ClickOnce,4.8,Microsoft Corporation Inc.,Application,,C:\Windows\Microsoft.NET\Framework64\v4.0.30319,3.0
+13763,Create a self-signed digital certificate,16.0,Microsoft Corporation Inc.,Application,,C:\Program Files\Microsoft Office\Office16,1.0
+13763,Credential Dialog Host,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SystemApps\microsoft.creddialoghost_cw5n1h2txyewy,1.0
+13763,CrowdStrike Device Control,7.29,CrowdStrike Inc.,Add/Remove Programs,"November 14, 2025 12:00:00 AM",,
+13763,CrowdStrike Device Control Support Tool,7.29,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,1.0
+13763,CrowdStrike Falcon Connector,7.32,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,1.0
+13763,CrowdStrike Falcon Sensor,7.32,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,1.0
+13763,CrowdStrike Falcon Sensor Controller,7.32,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,1.0
+13763,CrowdStrike Falcon Sensor Service,7.32,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,1.0
+13763,CrowdStrike Falcon Sensor Servlet Container,7.32,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,1.0
+13763,CrowdStrike Falcon Sensor Settings Tool,7.32,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,1.0
+13763,CrowdStrike Falcon Sensor System Tray Application,7.32,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,2.0
+13763,CrowdStrike Firmware Analysis,7.14,CrowdStrike Inc.,Add/Remove Programs,"August 26, 2025 12:00:00 AM",,
+13763,CrowdStrike Firmware Analysis Support Tool,7.14,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,1.0
+13763,CrowdStrike On-Demand Scan Command-line Tool,7.32,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,1.0
+13763,CrowdStrike On-Demand Scan Tool,7.32,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,1.0
+13763,CrowdStrike Sensor Platform,7.32,CrowdStrike Inc.,Add/Remove Programs,"January 14, 2026 12:00:00 AM",,
+13763,CrowdStrike Windows Sensor,7.32,CrowdStrike Inc.,Add/Remove Programs,"January 14, 2026 12:00:00 AM",,
+13763,CrowdStrike Windows Sensor,7.19,CrowdStrike Inc.,Application,,C:\Users\support.local01\Downloads,1.0
+13774,.NET Framework,3.0,Microsoft Corporation Inc.,Application,,C:\Windows\Microsoft.NET\Framework64\v3.0\Windows Communication Foundation,2.0
+13774,.NET Runtime Crash Dump Generator,8.0,Microsoft Corporation Inc.,Application,,C:\Program Files (x86)\Trend Micro\Endpoint Basecamp\modules\vom\modules\UiBridgeModule\VOneAgentConsole,1.0
+13774,.NET Runtime Optimization Service,4.8,Microsoft Corporation Inc.,Application,,C:\Windows\Microsoft.NET\Framework64\v4.0.30319,2.0
+13774,.NET Runtime Optimization Service,2.0,Microsoft Corporation Inc.,Application,,C:\Windows\Microsoft.NET\Framework64\v2.0.50727,2.0
+13774,64Bit MAPI Mail Agent,1.0,Foxit Software Inc.,Application,,C:\Program Files (x86)\Foxit Software\Foxit Reader,1.0
+13774,7-Zip 23.00 (x64),23.0,Igor Pavlov,Add/Remove Programs,,C:\Program Files\7-Zip\,
+13774,7-Zip Console,23.0,Igor Pavlov,Application,,C:\Program Files\7-Zip,1.0
+13774,7-Zip File Manager,23.0,Igor Pavlov,Application,,C:\Program Files\7-Zip,1.0
+13774,7-Zip GUI,23.0,Igor Pavlov,Application,,C:\Program Files\7-Zip,1.0
+13774,AAD token broker plugin,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SystemApps\Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy,1.0
+13774,Accounts Control Host,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SystemApps\Microsoft.AccountsControl_cw5n1h2txyewy,1.0
+13774,AddSuggestedFoldersToLibraryDialog,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SystemApps\Microsoft.Windows.AddSuggestedFoldersToLibraryDialog_cw5n1h2txyewy,1.0
+13774,Antimalware Service Executable,4.18,Microsoft Corporation Inc.,Application,,C:\Program Files\Windows Defender,1.0
+13774,AppResolverUX,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SystemApps\Microsoft.Windows.AppResolverUX_cw5n1h2txyewy,1.0
+13774,Aruba Networks Service,6.11,Aruba Networks,Application,,C:\Program Files\Aruba Networks\ClearPassOnGuard,1.0
+13774,AsyncTextService,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SystemApps\Microsoft.AsyncTextService_8wekyb3d8bbwe,1.0
+13774,Biometric Enrollment Host,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SystemApps\Microsoft.BioEnrollment_cw5n1h2txyewy,1.0
+13774,BMC Client Management Agent,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+13774,BMC Client Management Certificate Generator,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+13774,BMC Client Management Chilli Interpreter,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+13774,BMC Client Management Direct Access Proxy Agent,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+13774,BMC Client Management Opswat Proxy Agent,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+13774,BMC Client Management Package Viewer,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+13774,BMC Client Management Patch Broker,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+13774,BMC Client Management Proxy Agent,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+13774,BMC Client Management Remote Control proxy,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+13774,BMC Client Management SCAP,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+13774,BMC Client Management SFX,24.1.01.240624,BMC Software Inc.,Application,,C:\Users\support.local01\Downloads,1.0
+13774,BMC Client Management Video Proxy Agent,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+13774,Boot File Servicing Utility,10.0,Microsoft Corporation Inc.,Application,,C:\Windows,1.0
+13774,BrowserCore,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\BrowserCore,1.0
+13774,Calling App to host call progress on shell,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SystemApps\Microsoft.Windows.CallingShellApp_cw5n1h2txyewy,1.0
+13774,CameraBarcodeScannerPreview,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SystemApps\Windows.CBSPreview_cw5n1h2txyewy,1.0
+13774,CL5,9.6,Ivanti,Application,,C:\Program Files\BMC Software\Client Management\Client\data\PatchManagementPremium\workspace,5.0
+13774,ClearPass Agent Controller,6.11,Hewlett Packard Enterprise Development LP,Application,,C:\Program Files\Aruba Networks\ClearPassOnGuard,1.0
+13774,ClearPass Agent Helper,6.11,Hewlett Packard Enterprise Development LP,Application,,C:\Program Files\Aruba Networks\ClearPassOnGuard,1.0
+13774,ClearPass OnGuard,6.11,Aruba Networks,Application,,C:\Program Files\Aruba Networks\ClearPassOnGuard,3.0
+13774,ClearPass OnGuard 6.11.10.260785,6.11,Aruba Networks,Add/Remove Programs,,,
+13774,ClearPass OnGuard Agent Service,6.11,Hewlett Packard Enterprise Development LP,Application,,C:\Program Files\Aruba Networks\ClearPassOnGuard,1.0
+13774,ClearPass Windows System Health Remediation Process,6.11,Hewlett Packard Enterprise Development LP,Application,,C:\Program Files\Aruba Networks\ClearPassOnGuard,1.0
+13774,ClickOnce,4.8,Microsoft Corporation Inc.,Application,,C:\Windows\Microsoft.NET\Framework64\v4.0.30319,3.0
+13774,CrashSender Application,4.3,Google Inc.,Application,,C:\Program Files\Google\Google Apps Migration,1.0
+13774,Create a self-signed digital certificate,16.0,Microsoft Corporation Inc.,Application,,C:\Program Files\Microsoft Office\Office16,1.0
+13774,Credential Dialog Host,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SystemApps\microsoft.creddialoghost_cw5n1h2txyewy,1.0
+13774,CrowdStrike Device Control,7.29,CrowdStrike Inc.,Add/Remove Programs,"November 14, 2025 12:00:00 AM",,
+13774,CrowdStrike Device Control Support Tool,7.29,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,1.0
+13774,CrowdStrike Falcon Connector,7.32,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,1.0
+13774,CrowdStrike Falcon Sensor,7.32,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,1.0
+13774,CrowdStrike Falcon Sensor Controller,7.32,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,1.0
+13774,CrowdStrike Falcon Sensor Service,7.32,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,1.0
+9989,.NET Runtime Optimization Service,4.8,Microsoft Corporation Inc.,Application,,C:\Windows\Microsoft.NET\Framework64\v4.0.30319,2.0
+9989,64Bit MAPI Mail Agent,1.0,Foxit Software Inc.,Application,,C:\Program Files (x86)\Foxit Software\Foxit PDF Reader,1.0
+9989,7-Zip 24.08 (x64),24.08,Igor Pavlov,Add/Remove Programs,,C:\Program Files\7-Zip\,
+9989,7-Zip Console,24.08,Igor Pavlov,Application,,C:\Program Files\7-Zip,1.0
+9989,7-Zip File Manager,24.08,Igor Pavlov,Application,,C:\Program Files\7-Zip,1.0
+9989,7-Zip GUI,24.08,Igor Pavlov,Application,,C:\Program Files\7-Zip,1.0
+9989,Accounts Control Host,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SystemApps\Microsoft.AccountsControl_cw5n1h2txyewy,1.0
+9989,AddSuggestedFoldersToLibraryDialog,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SystemApps\Microsoft.Windows.AddSuggestedFoldersToLibraryDialog_cw5n1h2txyewy,1.0
+9989,Antimalware Core Service,4.18,Microsoft Corporation Inc.,Application,,C:\Program Files\Windows Defender,1.0
+9989,AntiMalware Platform Update (amd64fre),4.18,Microsoft Corporation Inc.,Application,,C:\Windows\SystemTemp\29F89A56-1428-4D7F-9446-95427983A7AEMpCommU,1.0
+9989,Antimalware Service Executable,4.18,Microsoft Corporation Inc.,Application,,C:\Program Files\Windows Defender,1.0
+9989,AppResolverUX,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SystemApps\Microsoft.Windows.AppResolverUX_cw5n1h2txyewy,1.0
+9989,AsyncTextService,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SystemApps\Microsoft.AsyncTextService_8wekyb3d8bbwe,1.0
+9989,Biometric Enrollment Host,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SystemApps\Microsoft.BioEnrollment_cw5n1h2txyewy,1.0
+9989,BMC Client Management Agent,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+9989,BMC Client Management Certificate Generator,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+9989,BMC Client Management Chilli Interpreter,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+9989,BMC Client Management Direct Access Proxy Agent,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+9989,BMC Client Management Opswat Proxy Agent,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+9989,BMC Client Management Package Viewer,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+9989,BMC Client Management Patch Broker,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+9989,BMC Client Management Proxy Agent,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+9989,BMC Client Management Remote Control proxy,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+9989,BMC Client Management SCAP,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+9989,BMC Client Management SFX,24.1.01.240624,BMC Software Inc.,Application,,D:\BMC CS,2.0
+9989,BMC Client Management Video Proxy Agent,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+9989,Boot File Servicing Utility,10.0,Microsoft Corporation Inc.,Application,,C:\Windows,1.0
+9989,Browser Protection Native Messaging Host,4.18,Microsoft Corporation Inc.,Application,,C:\Program Files\Windows Defender,1.0
+9989,BrowserCore,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\BrowserCore,1.0
+9989,CameraBarcodeScannerPreview,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SystemApps\Windows.CBSPreview_cw5n1h2txyewy,1.0
+9989,ChromeEnterpriseCompanion,143.0,Google LLC,Application,,C:\Windows\SystemTemp\scoped_dir16292_1256008780\scoped_dir16292_1329358970,1.0
+9989,CL5,9.6,Ivanti,Application,,C:\Program Files\BMC Software\Client Management\Client\data\PatchManagementPremium\workspace,1.0
+9989,ClickOnce,4.8,Microsoft Corporation Inc.,Application,,C:\Windows\Microsoft.NET\Framework64\v4.0.30319,3.0
+9989,Common User Interface,5.8,Musarubra US LLC.,Application,,C:\Program Files\McAfee\Agent\x86,1.0
+9989,Credential Dialog Host,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SystemApps\microsoft.creddialoghost_cw5n1h2txyewy,1.0
+9989,CrowdStrike Device Control,7.29,CrowdStrike Inc.,Add/Remove Programs,"November 14, 2025 12:00:00 AM",,
+9989,CrowdStrike Device Control Support Tool,7.29,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,1.0
+9989,CrowdStrike Falcon Connector,7.32,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,1.0
+9989,CrowdStrike Falcon Sensor,7.32,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,1.0
+9989,CrowdStrike Falcon Sensor Controller,7.32,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,1.0
+9989,CrowdStrike Falcon Sensor Service,7.32,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,1.0
+9989,CrowdStrike Falcon Sensor Servlet Container,7.32,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,1.0
+9989,CrowdStrike Falcon Sensor Settings Tool,7.32,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,1.0
+9989,CrowdStrike Falcon Sensor System Tray Application,7.32,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,2.0
+9989,CrowdStrike Firmware Analysis,7.14,CrowdStrike Inc.,Add/Remove Programs,"June 09, 2025 12:00:00 AM",,
+9989,CrowdStrike Firmware Analysis Support Tool,7.14,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,1.0
+9989,CrowdStrike On-Demand Scan Command-line Tool,7.32,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,1.0
+9989,CrowdStrike On-Demand Scan Tool,7.32,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,1.0
+9989,CrowdStrike Sensor Platform,7.32,CrowdStrike Inc.,Add/Remove Programs,"January 14, 2026 12:00:00 AM",,
+9989,CrowdStrike Windows Sensor,7.32,CrowdStrike Inc.,Add/Remove Programs,"January 14, 2026 12:00:00 AM",,

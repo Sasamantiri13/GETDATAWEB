@@ -1,0 +1,13 @@
+# Security Best Practices
+
+## Jangan Commit File Ini ke Git!
+cookies.json
+.env
+*.session
+*.cookie
+chrome_session/
+Profile 6/
+
+## Jangan Share File Ini!
+- Berisi session token yang bisa digunakan untuk akses tanpa password
+- Jika bocor, orang lain bisa masuk ke sistem dengan identitas Anda

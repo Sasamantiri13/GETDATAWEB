@@ -1,0 +1,12 @@
+pandas
+selenium
+webdriver-manager
+pandas
+html5lib
+psutil
+cryptography
+python-dotenv
+openpyxl
+beautifulsoup4
+cryptography
+python-dotenv

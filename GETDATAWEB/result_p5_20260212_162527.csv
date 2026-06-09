@@ -1,0 +1,51 @@
+﻿Asset_ID,_COLNAME_NAME_ Sort Not sorted  _COLNAME_NAME_,_COLNAME_VERSION_ Sort Not sorted  _COLNAME_VERSION_,Software Manufacturer Sort Not sorted  Software Manufacturer,_COLNAME_TYPE_ Sort Not sorted  _COLNAME_TYPE_,Installation Date Sort Not sorted  Installation Date,Installation Directory Sort Not sorted  Installation Directory,File Count Sort Not sorted  File Count
+5212,.NET Runtime Optimization Service,4.8,Microsoft Corporation Inc.,Application,,C:\Windows\Microsoft.NET\Framework64\v4.0.30319,2.0
+5212,64Bit MAPI Mail Agent,1.0,Foxit Software Inc.,Application,,C:\Program Files (x86)\Foxit Software\Foxit PDF Reader,1.0
+5212,7-Zip 23.01 (x64),23.01,Igor Pavlov,Add/Remove Programs,,C:\Program Files\7-Zip\,
+5212,7-Zip Console,23.01,Igor Pavlov,Application,,C:\Program Files\7-Zip,1.0
+5212,7-Zip File Manager,23.01,Igor Pavlov,Application,,C:\Program Files\7-Zip,1.0
+5212,7-Zip GUI,23.01,Igor Pavlov,Application,,C:\Program Files\7-Zip,1.0
+5212,Accounts Control Host,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SystemApps\Microsoft.AccountsControl_cw5n1h2txyewy,1.0
+5212,AddSuggestedFoldersToLibraryDialog,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SystemApps\Microsoft.Windows.AddSuggestedFoldersToLibraryDialog_cw5n1h2txyewy,1.0
+5212,Antimalware Core Service,4.18,Microsoft Corporation Inc.,Application,,C:\Program Files\Windows Defender,1.0
+5212,Antimalware Service Executable,4.18,Microsoft Corporation Inc.,Application,,C:\Program Files\Windows Defender,1.0
+5212,AppFollower,1.3,Conexant Systems Inc.,Application,,C:\Program Files\CONEXANT\Flow,1.0
+5212,AppResolverUX,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SystemApps\Microsoft.Windows.AppResolverUX_cw5n1h2txyewy,1.0
+5212,AsyncTextService,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SystemApps\Microsoft.AsyncTextService_8wekyb3d8bbwe,1.0
+5212,Audio Control,4.0,Conexant Systems LLC.,Application,,C:\Program Files\CONEXANT\Install\Audio\SA3\SA3\Dyson,2.0
+5212,Audio Controls Control Panel,4.0,Conexant Systems LLC.,Application,,C:\Program Files\CONEXANT\SA3\HP-NB-AIO,3.0
+5212,Bang & Olufsen,4.0,Conexant Systems LLC.,Application,,C:\Program Files\CONEXANT\Install\Audio\SA3\SA3\BandO,2.0
+5212,Biometric Enrollment Host,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SystemApps\Microsoft.BioEnrollment_cw5n1h2txyewy,1.0
+5212,BMC Client Management Agent,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+5212,BMC Client Management Certificate Generator,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+5212,BMC Client Management Chilli Interpreter,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+5212,BMC Client Management Direct Access Proxy Agent,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+5212,BMC Client Management Opswat Proxy Agent,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+5212,BMC Client Management Package Viewer,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+5212,BMC Client Management Patch Broker,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+5212,BMC Client Management Proxy Agent,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+5212,BMC Client Management Remote Control proxy,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+5212,BMC Client Management SCAP,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+5212,BMC Client Management Video Proxy Agent,24.1.01.240624,BMC Software Inc.,Application,,C:\Program Files\BMC Software\Client Management\Client\bin,1.0
+5212,Boot File Servicing Utility,10.0,Microsoft Corporation Inc.,Application,,C:\Windows,1.0
+5212,Browser Protection Native Messaging Host,4.18,Microsoft Corporation Inc.,Application,,C:\Program Files\Windows Defender,1.0
+5212,BrowserCore,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\BrowserCore,1.0
+5212,CameraBarcodeScannerPreview,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SystemApps\Windows.CBSPreview_cw5n1h2txyewy,1.0
+5212,ChromeEnterpriseCompanion,143.0,Google LLC,Application,,C:\Windows\SystemTemp\scoped_dir10388_1525421973\scoped_dir10388_1324418203,1.0
+5212,ClickOnce,4.8,Microsoft Corporation Inc.,Application,,C:\Windows\Microsoft.NET\Framework64\v4.0.30319,3.0
+5212,CnxtNotify,1.0,Conexant Systems Inc.,Application,,C:\Program Files\CONEXANT\SA3\HP-NB-AIO,1.0
+5212,Common User Interface,5.8,Musarubra US LLC.,Application,,C:\Program Files\McAfee\Agent\x86,1.0
+5212,Credential Dialog Host,10.0,Microsoft Corporation Inc.,Application,,C:\Windows\SystemApps\microsoft.creddialoghost_cw5n1h2txyewy,1.0
+5212,CrowdStrike Device Control,7.29,CrowdStrike Inc.,Add/Remove Programs,"November 14, 2025 12:00:00 AM",,
+5212,CrowdStrike Device Control Support Tool,7.29,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,1.0
+5212,CrowdStrike Falcon Connector,7.32,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,1.0
+5212,CrowdStrike Falcon Sensor,7.32,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,1.0
+5212,CrowdStrike Falcon Sensor Controller,7.32,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,1.0
+5212,CrowdStrike Falcon Sensor Service,7.32,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,1.0
+5212,CrowdStrike Falcon Sensor Servlet Container,7.32,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,1.0
+5212,CrowdStrike Falcon Sensor Settings Tool,7.32,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,1.0
+5212,CrowdStrike Falcon Sensor System Tray Application,7.32,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,2.0
+5212,CrowdStrike Firmware Analysis,7.14,CrowdStrike Inc.,Add/Remove Programs,"June 18, 2025 12:00:00 AM",,
+5212,CrowdStrike Firmware Analysis Support Tool,7.14,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,1.0
+5212,CrowdStrike On-Demand Scan Command-line Tool,7.32,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,1.0
+5212,CrowdStrike On-Demand Scan Tool,7.32,CrowdStrike Inc.,Application,,C:\Program Files\CrowdStrike,1.0
