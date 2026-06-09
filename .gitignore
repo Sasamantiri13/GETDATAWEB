@@ -1,0 +1,75 @@
+# Browser cache and profiles
+Default/
+Profile 6/
+chrome_session/
+Edge User Data/
+extensions_crx_cache/
+component_crx_cache/
+WidevineCdm/
+WasmTtsEngine/
+
+# Browser system folders
+Variations/
+Local State
+Last Browser
+Last Version
+DevToolsActivePort
+First Run
+CrashpadMetrics-active.pma
+
+# Cache and metadata folders
+BrowserMetrics/
+GrShaderCache/
+ShaderCache/
+GraphiteDawnCache/
+CertificateRevocation/
+PKIMetadata/
+Policy/
+Safe Browsing/
+SSLErrorAssistant/
+SafetyTips/
+
+# Other system folders
+ActorSafetyLists/
+AmountExtractionHeuristicRegexes/
+AutofillStates/
+Crashpad/
+CookieReadinessList/
+GCM Store/
+FileTypePolicies/
+FirstPartySetsPreloaded/
+MEIPreload/
+OnDeviceHeadSuggestModel/
+OpenCookieDatabase/
+optimization_guide_model_store/
+OptimizationHints/
+OriginTrials/
+PrivacySandboxAttestationsPreloaded/
+ProbabilisticRevealTokenRegistry/
+RecoveryImproved/
+segmentation_platform/
+Subresource Filter/
+TpcdMetadata/
+TrustTokenKeyCommitments/
+ZxcvbnData/
+hyphen-data/
+
+# Nested git directories
+GETDATAWEB/.git/
+tarik_data-berhasil 6/
+
+# Database files
+*.db-journal
+
+# Result folders with many CSV files
+#0-1000/
+#1001-2000/
+#2001-3000/
+#3001-6000/
+#6001-9000/
+
+# Debug files
+debug_error_*.html
+
+# Encrypted files
+*.encrypted
